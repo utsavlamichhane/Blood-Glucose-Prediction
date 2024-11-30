@@ -1,0 +1,1 @@
+The training data set is small ( only 49 of the dataset randomly selected from the original training data set) . If the whole train file is required please email me or you can meet me; second floor cubicle in the Rhodes building. 
